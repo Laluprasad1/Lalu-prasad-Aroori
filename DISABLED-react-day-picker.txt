@@ -1,2 +1,0 @@
-// This file disables react-day-picker to resolve React 19 dependency conflict.
-// You can re-enable or update this dependency if a compatible version is released.
