@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js, Three.js, and Framer 
 
 ## 🌟 Live Demo
 
-Visit my portfolio: [**Live Website**](https://your-portfolio-url.vercel.app) *(Deploy to get live URL)*
+Visit my portfolio: [**Live Website**](https://lalu-prasad-aroori.vercel.app/) *(Deploy to get live URL)*
 
 ## 📸 Preview
 
