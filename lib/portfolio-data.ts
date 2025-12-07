@@ -72,7 +72,7 @@ export const portfolioData = {
         solutions: "Integrated NLP models for content analysis and recommendation engine for personalized suggestions.",
         impact: "Helped 500+ users create professional resumes with 95% user satisfaction rate."
       }
-    }
+    },
     {
     id: 4,
     title: "Tic-Tac-Toe Master",
