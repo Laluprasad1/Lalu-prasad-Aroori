@@ -63,8 +63,8 @@ export const portfolioData = {
       technologies: ["React", "Node.js", "AI", "Web Development", "MongoDB"],
       category: "Web Application",
       image: "/project-resume-spark.jpg",
-      demoUrl: "#",
-      githubUrl: "#",
+      demoUrl: "https://laluprasad1.github.io/ResumeSpark/",
+      githubUrl: "https://github.com/Laluprasad1/ResumeSpark",
       featured: true,
       details: {
         overview: "A smart resume builder that helps users create professional resumes with AI-powered suggestions.",
@@ -73,7 +73,24 @@ export const portfolioData = {
         impact: "Helped 500+ users create professional resumes with 95% user satisfaction rate."
       }
     }
-  ],
+    {
+    id: 4,
+    title: "Tic-Tac-Toe Master",
+    description: "An advanced and visually stunning Tic-Tac-Toe game with AI opponents, undo functionality, score tracking, and modern glassmorphism UI built using pure web technologies.",
+    technologies: ["HTML", "CSS", "JavaScript", "AI", "Minimax Algorithm"],
+    category: "Game Web Application",
+    image: "/project-tictactoe.jpg",
+    demoUrl: "https://laluprasad1.github.io/tic-tac-toe-master/",
+    githubUrl: "https://github.com/Laluprasad1/tic-tac-toe-master",
+    featured: true,
+    details: {
+      overview: "A fully interactive Tic-Tac-Toe game that allows users to play against another human or challenge an AI with multiple difficulty levels.",
+      challenges: "Building a smart AI that plays optimally while maintaining smooth performance and handling undo functionality with full game history tracking.",
+      solutions: "Implemented the Minimax algorithm for hard AI mode, optimized JavaScript game logic, and created a responsive and animated glassmorphism UI using modern CSS.",
+      impact: "Provides an engaging gaming experience across all devices and demonstrates strong skills in game logic, AI implementation, and modern UI design."
+    }
+  }
+],
 
   experience: [
     {
